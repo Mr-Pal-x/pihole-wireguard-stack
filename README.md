@@ -1,6 +1,8 @@
 # Pi-hole + WireGuard Home Network
 
-A privacy-focused DNS and VPN stack for ad-blocking at home and on the go.
+This project documents my setup for a home network with improved privacy and ad-blocking, both locally and remotely.  
+It combines **Pi-hole** for network-wide DNS filtering, **Unbound** for recursive DNS resolution, and **WireGuard (via PiVPN)** for secure remote access, alongside basic firewall protections.  
+The goal is to learn hands-on network management and privacy practices while maintaining a functional, home-scale network.
 
 ---
 
