@@ -7,7 +7,7 @@ A privacy-focused DNS and VPN stack for ad-blocking at home and on the go.
 
 ---
 
-##Project Overview
+## Project Overview
 This project documents my journey building a secure and private home network using:
 
 - **Pi-hole**: DNS-level ad blocking
