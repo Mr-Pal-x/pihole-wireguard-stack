@@ -1,0 +1,15 @@
+# Sensitive configs
+*.key
+*.pem
+*.conf
+*.crt
+*.db
+*.log
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
