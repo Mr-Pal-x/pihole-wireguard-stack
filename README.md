@@ -1,6 +1,3 @@
-# pihole-wireguard-stack
-A Raspberry Pi-based DNS and VPN setup for network-wide ad-blocking and secure remote access.
-
 # Pi-hole + WireGuard Home Network
 
 A privacy-focused DNS and VPN stack for ad-blocking at home and on the go.
@@ -32,7 +29,7 @@ The goal is to block ads, protect privacy, and maintain secure remote access whi
 - Difference between recursive DNS and forwarders
 - Importance of DNSSEC for integrity and trust
 - How accurate NTP sync impacts DNS validation
-- Network isolation strategies for IoT vs. private devices (Trusted/Untrusted networks)
+- Network isolation strategies for IoT vs. private devices (Trusted/Untrusted devices)
 
 ---
 
